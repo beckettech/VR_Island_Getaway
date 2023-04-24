@@ -8517,11 +8517,11 @@ Terrain:
   m_Enabled: 1
   serializedVersion: 6
   m_TerrainData: {fileID: 15600000, guid: 6cdb05485124e234c99132bfa39cf85f, type: 2}
-  m_TreeDistance: 1112
+  m_TreeDistance: 1368
   m_TreeBillboardDistance: 877
-  m_TreeCrossFadeLength: 45
-  m_TreeMaximumFullLODCount: 26
-  m_DetailObjectDistance: 74
+  m_TreeCrossFadeLength: 53
+  m_TreeMaximumFullLODCount: 77
+  m_DetailObjectDistance: 114
   m_DetailObjectDensity: 1
   m_HeightmapPixelError: 5
   m_SplatMapDistance: 1000
