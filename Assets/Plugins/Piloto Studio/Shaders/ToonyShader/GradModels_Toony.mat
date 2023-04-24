@@ -21,12 +21,12 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: GradModels_Toony
-  m_Shader: {fileID: 4800000, guid: 134df03d154adcb4daa9a7f1419c25fc, type: 3}
+  m_Shader: {fileID: 4800000, guid: c6a78afd33b147144a85d416818175a1, type: 3}
   m_ShaderKeywords: _ADD_PRECOMPUTED_VELOCITY _DISABLE_SSR
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 2000
+  m_CustomRenderQueue: -1
   stringTagMap:
     IgnoreProjection: False
     MotionVector: User

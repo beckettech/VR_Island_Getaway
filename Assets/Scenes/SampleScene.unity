@@ -5040,7 +5040,7 @@ PrefabInstance:
     - target: {fileID: 6598815579406187037, guid: 9f5a24a380916d14db9775daab4fe333,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9f5a24a380916d14db9775daab4fe333, type: 3}
@@ -8476,23 +8476,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   terrain: {fileID: 1389355106}
-  maxRadius: 134
+  maxRadius: 145
   aborted: 0
-  prog: 100%
+  prog: 0%
   perlinHeight: 0.01
   perlinScale: 20
   mapSmoothTimes: 10
-  seed: -1544211974
+  seed: -1690287099
   useRandomSeed: 1
   usedSeeds:
+  - -1690287099
+  - -1712656525
+  - -2087370643
+  - -1881928289
+  - 372184905
+  - 496015469
   - -1544211974
   - -1364446135
   - -1380549923
   - -1417501659
-  - -872403720
-  - -1459097222
-  - 2130752631
-  - 1631403757
   randomFillPercent: 50
 --- !u!154 &1389355105
 TerrainCollider:
@@ -8515,11 +8517,11 @@ Terrain:
   m_Enabled: 1
   serializedVersion: 6
   m_TerrainData: {fileID: 15600000, guid: 6cdb05485124e234c99132bfa39cf85f, type: 2}
-  m_TreeDistance: 5000
-  m_TreeBillboardDistance: 50
-  m_TreeCrossFadeLength: 5
-  m_TreeMaximumFullLODCount: 50
-  m_DetailObjectDistance: 80
+  m_TreeDistance: 1112
+  m_TreeBillboardDistance: 877
+  m_TreeCrossFadeLength: 45
+  m_TreeMaximumFullLODCount: 26
+  m_DetailObjectDistance: 74
   m_DetailObjectDensity: 1
   m_HeightmapPixelError: 5
   m_SplatMapDistance: 1000
