@@ -1,0 +1,285 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!64 &808739582875724006
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1230936037052721190}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 12
+  m_Mesh: {fileID: -4720340843576463987, guid: bbaffc102f6809e49a6e464810c3fc2c, type: 3}
+--- !u!1 &5170986295170389353
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3088719956239060242}
+  - component: {fileID: 2671642730555718974}
+  m_Layer: 0
+  m_Name: Dishwasher_grill_LOD
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &3088719956239060242
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5170986295170389353}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5655545773837429168}
+  - {fileID: 2832324451735427637}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!205 &2671642730555718974
+LODGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5170986295170389353}
+  serializedVersion: 2
+  m_LocalReferencePoint: {x: 0, y: -0.053407647, z: -0.00009047985}
+  m_Size: 0.8831732
+  m_FadeMode: 0
+  m_AnimateCrossFading: 0
+  m_LastLODIsBillboard: 0
+  m_LODs:
+  - screenRelativeHeight: 0.39662266
+    fadeTransitionWidth: 0
+    renderers:
+    - renderer: {fileID: 6925136818749730687}
+  - screenRelativeHeight: 0.072854705
+    fadeTransitionWidth: 0
+    renderers:
+    - renderer: {fileID: 660340026798972154}
+  m_Enabled: 1
+--- !u!64 &2862301888595121625
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8658118822716005283}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 12
+  m_Mesh: {fileID: -4720340843576463987, guid: bbaffc102f6809e49a6e464810c3fc2c, type: 3}
+--- !u!1001 &794388510618616490
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3088719956239060242}
+    m_Modifications:
+    - target: {fileID: -927199367670048503, guid: 811ac74b65cf3e74ea2d584ead01e759,
+        type: 3}
+      propertyPath: m_Name
+      value: Dishwasher_grill_LOD_0
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 811ac74b65cf3e74ea2d584ead01e759,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 811ac74b65cf3e74ea2d584ead01e759,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 811ac74b65cf3e74ea2d584ead01e759,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 811ac74b65cf3e74ea2d584ead01e759,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 811ac74b65cf3e74ea2d584ead01e759,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 811ac74b65cf3e74ea2d584ead01e759,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 811ac74b65cf3e74ea2d584ead01e759,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 811ac74b65cf3e74ea2d584ead01e759,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 811ac74b65cf3e74ea2d584ead01e759,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 811ac74b65cf3e74ea2d584ead01e759,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 811ac74b65cf3e74ea2d584ead01e759,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 811ac74b65cf3e74ea2d584ead01e759,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1504981713932161579, guid: 811ac74b65cf3e74ea2d584ead01e759,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: -1504981713932161579, guid: 811ac74b65cf3e74ea2d584ead01e759,
+        type: 3}
+      propertyPath: m_LightmapParameters
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 811ac74b65cf3e74ea2d584ead01e759, type: 3}
+--- !u!1 &8658118822716005283 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -927199367670048503, guid: 811ac74b65cf3e74ea2d584ead01e759,
+    type: 3}
+  m_PrefabInstance: {fileID: 794388510618616490}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &5655545773837429168 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -4216859302048453862, guid: 811ac74b65cf3e74ea2d584ead01e759,
+    type: 3}
+  m_PrefabInstance: {fileID: 794388510618616490}
+  m_PrefabAsset: {fileID: 0}
+--- !u!23 &6925136818749730687 stripped
+MeshRenderer:
+  m_CorrespondingSourceObject: {fileID: -1504981713932161579, guid: 811ac74b65cf3e74ea2d584ead01e759,
+    type: 3}
+  m_PrefabInstance: {fileID: 794388510618616490}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7076497362130989359
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3088719956239060242}
+    m_Modifications:
+    - target: {fileID: -927199367670048503, guid: bbaffc102f6809e49a6e464810c3fc2c,
+        type: 3}
+      propertyPath: m_Name
+      value: Dishwasher_grill_LOD_1
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: bbaffc102f6809e49a6e464810c3fc2c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: bbaffc102f6809e49a6e464810c3fc2c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: bbaffc102f6809e49a6e464810c3fc2c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: bbaffc102f6809e49a6e464810c3fc2c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: bbaffc102f6809e49a6e464810c3fc2c,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: bbaffc102f6809e49a6e464810c3fc2c,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: bbaffc102f6809e49a6e464810c3fc2c,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: bbaffc102f6809e49a6e464810c3fc2c,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: bbaffc102f6809e49a6e464810c3fc2c,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: bbaffc102f6809e49a6e464810c3fc2c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: bbaffc102f6809e49a6e464810c3fc2c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: bbaffc102f6809e49a6e464810c3fc2c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1504981713932161579, guid: bbaffc102f6809e49a6e464810c3fc2c,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 10
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bbaffc102f6809e49a6e464810c3fc2c, type: 3}
+--- !u!1 &1230936037052721190 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -927199367670048503, guid: bbaffc102f6809e49a6e464810c3fc2c,
+    type: 3}
+  m_PrefabInstance: {fileID: 7076497362130989359}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &2832324451735427637 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -4216859302048453862, guid: bbaffc102f6809e49a6e464810c3fc2c,
+    type: 3}
+  m_PrefabInstance: {fileID: 7076497362130989359}
+  m_PrefabAsset: {fileID: 0}
+--- !u!23 &660340026798972154 stripped
+MeshRenderer:
+  m_CorrespondingSourceObject: {fileID: -1504981713932161579, guid: bbaffc102f6809e49a6e464810c3fc2c,
+    type: 3}
+  m_PrefabInstance: {fileID: 7076497362130989359}
+  m_PrefabAsset: {fileID: 0}

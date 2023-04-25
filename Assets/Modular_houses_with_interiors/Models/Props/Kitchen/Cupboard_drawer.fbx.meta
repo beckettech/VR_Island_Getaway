@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 0ed1c97979309c54692915aa0e8b3bcf
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      74: -5788687390983808691
+    second: Counter_top_drawer|Corner_shower_doorAction.002
+  - first:
+      74: -2591610783008768410
+    second: Counter_top_drawer|Counter_top_door_LOD_0Action
+  - first:
+      74: 5109580281876538024
+    second: Counter_top_drawer|Counter_top_drawerAction
+  - first:
+      74: 1268489397750198549
+    second: Counter_top_drawer|Dishwasher_doorAction
+  - first:
+      74: 3935359940722414702
+    second: Counter_top_drawer|Door_Action
+  - first:
+      74: -3832706375605832509
+    second: Counter_top_drawer|Door_handleAction
+  - first:
+      74: 854351058884837278
+    second: Counter_top_drawer|Door_insideAction
+  - first:
+      74: -8967754715807807002
+    second: Counter_top_drawer|Freezer_drawer_door_LOD_0Action
+  - first:
+      74: 3193758522605423013
+    second: Counter_top_drawer|Freezer_drawer_LOD_0Action
+  - first:
+      74: -6770263199608035546
+    second: Counter_top_drawer|Freezer_drawer_LOD_1Action
+  - first:
+      74: 5544470785813953470
+    second: Counter_top_drawer|Fridge_door_LOD_0Action
+  - first:
+      74: 2595145340644127018
+    second: Counter_top_drawer|Fridge_drawer_LOD_0Action
+  - first:
+      74: 3336005456334573372
+    second: Counter_top_drawer|Oven_doorAction
+  - first:
+      74: -1530169652515055596
+    second: Counter_top_drawer|Sink_tap_handleAction
+  - first:
+      74: 2729047865310698530
+    second: Counter_top_drawer|SwitchAction
+  - first:
+      74: -5381437201485636224
+    second: Counter_top_drawer|Tap_handleAction
+  - first:
+      74: -8299429916480130268
+    second: Counter_top_drawer|Toilet_seatAction
+  - first:
+      74: -7496674527814680166
+    second: Counter_top_drawer|Washing_machine_door_LOD_0Action
+  - first:
+      74: 8244905709726583581
+    second: Cupboard_drawer|Corner_shower_doorAction.002
+  - first:
+      74: -6081590262559309703
+    second: Cupboard_drawer|Counter_top_door_LOD_0Action
+  - first:
+      74: 6188037306042437785
+    second: Cupboard_drawer|Counter_top_drawerAction
+  - first:
+      74: -1996553324214388650
+    second: Cupboard_drawer|Dishwasher_doorAction
+  - first:
+      74: -5015431165006064743
+    second: Cupboard_drawer|Door_Action
+  - first:
+      74: 903324765246436002
+    second: Cupboard_drawer|Door_handleAction
+  - first:
+      74: 3229643238218724694
+    second: Cupboard_drawer|Door_insideAction
+  - first:
+      74: 9068060182505508193
+    second: Cupboard_drawer|Freezer_drawer_door_LOD_0Action
+  - first:
+      74: 4604642426053282392
+    second: Cupboard_drawer|Freezer_drawer_LOD_0Action
+  - first:
+      74: -2185110430155354782
+    second: Cupboard_drawer|Freezer_drawer_LOD_1Action
+  - first:
+      74: -2856952160860196045
+    second: Cupboard_drawer|Fridge_door_LOD_0Action
+  - first:
+      74: 9086539716659463152
+    second: Cupboard_drawer|Fridge_drawer_LOD_0Action
+  - first:
+      74: -6793936175795180485
+    second: Cupboard_drawer|Oven_doorAction
+  - first:
+      74: 5664840561257795059
+    second: Cupboard_drawer|Sink_tap_handleAction
+  - first:
+      74: -8213331866658262964
+    second: Cupboard_drawer|SwitchAction
+  - first:
+      74: -7428182043117056848
+    second: Cupboard_drawer|Tap_handleAction
+  - first:
+      74: 2103053731449183739
+    second: Cupboard_drawer|Toilet_seatAction
+  - first:
+      74: -971108947239047725
+    second: Cupboard_drawer|Washing_machine_door_LOD_0Action
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bathroom_Kitchen
+    second: {fileID: 2100000, guid: 0306ee3f98b0c5c4ab9f9a300ed20173, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 30
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
