@@ -17,9 +17,9 @@ MonoBehaviour:
     x: 0
     y: 43
     width: 1920
-    height: 1109
+    height: 989
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Hierarchy
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -44,11 +44,11 @@ MonoBehaviour:
     x: 0
     y: 30
     width: 1920
-    height: 1059
+    height: 939
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 101
+  controlID: 46
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -67,9 +67,9 @@ MonoBehaviour:
     x: 1587
     y: 0
     width: 333
-    height: 1059
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+    height: 939
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -93,7 +93,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 392
-    height: 729
+    height: 646
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
@@ -117,9 +117,9 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 729
+    y: 646
     width: 1587
-    height: 330
+    height: 293
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
   m_ActualView: {fileID: 12}
@@ -149,7 +149,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1920
-    height: 1109
+    height: 989
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
@@ -194,7 +194,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 1089
+    y: 969
     width: 1920
     height: 20
   m_MinSize: {x: 0, y: 0}
@@ -219,11 +219,11 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1587
-    height: 1059
+    height: 939
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 107
+  controlID: 52
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,11 +244,11 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1587
-    height: 729
+    height: 646
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 108
+  controlID: 53
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -267,9 +267,9 @@ MonoBehaviour:
     x: 392
     y: 0
     width: 1195
-    height: 729
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+    height: 646
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -298,15 +298,15 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 802
+    y: 719
     width: 1586
-    height: 309
+    height: 272
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
     m_SaveData: []
   m_SearchFilter:
-    m_NameFilter: 
+    m_NameFilter: coconut
     m_ClassNames: []
     m_AssetLabels: []
     m_AssetBundleNames: []
@@ -318,22 +318,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/BrossLabs/Classic Ping-Pong Racket/Prefab
+    - Packages/com.unity.render-pipelines.universal/Runtime/Materials
     m_Globs: []
-    m_OriginalText: 
+    m_OriginalText: coconut
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/BrossLabs/Classic Ping-Pong Racket/Prefab
+  - Packages/com.unity.render-pipelines.universal/Runtime/Materials
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\beck\Documents\Github\VR_Island_Getaway
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 9.000122}
-    m_SelectedIDs: f4640200
-    m_LastClickedID: 156916
-    m_ExpandedIDs: 00000000b68c0000b88c0000ba8c0000bc8c0000be8c0000c08c0000c28c0000c48c0000c68c0000c88c0000ca8c0000cc8c0000ce8c0000d08c0000d28c0000d48c0000d68c0000d88c0000da8c0000dc8c00005aec0100a2ed0100d4ed0100e2ee01004cf10100e2f301003a6002003e600200f06402000665020000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 1124}
+    m_SelectedIDs: 7ceb0000
+    m_LastClickedID: 60284
+    m_ExpandedIDs: 0000000058e500005ae500005ce500005ee5000060e5000062e5000064e5000066e5000068e500006ae500006ce500006ee5000070e5000072e5000074e5000076e5000078e500007ae500007ce500007ee5000080e5000082e5000084e5000086e5000088e500008ae500008ce500008ee50000c4ea00007eeb000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -361,7 +361,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000b68c0000b88c0000ba8c0000bc8c0000be8c0000c08c0000c28c0000c48c0000c68c0000c88c0000ca8c0000cc8c0000ce8c0000d08c0000d28c0000d48c0000d68c0000d88c0000da8c0000dc8c0000
+    m_ExpandedIDs: 0000000058e500005ae500005ce500005ee5000060e5000062e5000064e5000066e5000068e500006ae500006ce500006ee5000070e5000072e5000074e5000076e5000078e500007ae500007ce500007ee5000080e5000082e5000084e5000086e5000088e500008ae500008ce500008ee50000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -392,18 +392,18 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: c62300004674000074220100802201001c750000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Prefab
-      m_OriginalName: Prefab
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 156916
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 5}
     m_CreateAssetUtility:
@@ -441,7 +441,7 @@ MonoBehaviour:
     x: 1587
     y: 73
     width: 332
-    height: 1038
+    height: 918
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -483,31 +483,31 @@ MonoBehaviour:
     x: 0
     y: 73
     width: 391
-    height: 708
+    height: 625
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 104bfdff
-      m_LastClickedID: -177392
-      m_ExpandedIDs: 6c62feff7062feff8662feff9263feff9863feff7a6ffeffe4e3feff7260ffffcefaffffb07c010082550200
+      scrollPos: {x: 0, y: 116}
+      m_SelectedIDs: da8dfeff
+      m_LastClickedID: -94758
+      m_ExpandedIDs: 6ed1ffffe6a000002ea100006ca10000b0a100001ea200008aa2000012a300004ea3000072a40000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Cornhole Board
-        m_OriginalName: Cornhole Board
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -163390
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 4
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -541,7 +541,7 @@ MonoBehaviour:
     x: 392
     y: 73
     width: 1193
-    height: 708
+    height: 625
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -787,9 +787,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 411.51886, y: 55.847404, z: 441.792}
+    m_Target: {x: 201.27463, y: 82.82315, z: 317.79288}
     speed: 2
-    m_Value: {x: 411.51892, y: 55.478363, z: 441.79214}
+    m_Value: {x: 201.27463, y: 82.82315, z: 317.79288}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -836,13 +836,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.30371463, y: -0.60839397, z: 0.27125308, w: 0.68120205}
+    m_Target: {x: 0.311737, y: -0.5776027, z: 0.25338137, w: 0.71062917}
     speed: 2
-    m_Value: {x: 0.30574045, y: -0.60326785, z: 0.2689676, w: 0.6857458}
+    m_Value: {x: 0.30425823, y: -0.58023113, z: 0.24730259, w: 0.71386296}
   m_Size:
-    m_Target: 19.147207
+    m_Target: 5.314105
     speed: 2
-    m_Value: 17.47008
+    m_Value: 4.65741
   m_Ortho:
     m_Target: 0
     speed: 2
