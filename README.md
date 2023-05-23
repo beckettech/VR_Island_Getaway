@@ -1,5 +1,5 @@
 ![Image Alt Text](https://github.com/beckettech/VR_Island_Getaway/blob/main/Magazine%20-%20VR.pptx%20(1).jpg)
-![Image Alt Text](https://github.com/beckettech/VR_Island_Getaway/blob/main/Magazine%20-%20VR.pptx%20.jpg)
+![Image Alt Text](https://github.com/beckettech/VR_Island_Getaway/blob/main/Magazine%20-%20VR.pptx.jpg)
 
 How to play this experience on your own:
 
